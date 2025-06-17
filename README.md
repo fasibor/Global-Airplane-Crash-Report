@@ -1,5 +1,6 @@
 # Global Airplane Crash Data Analysis (1918–2022)
-![final dashboard](https://github.com/user-attachments/assets/2ab1d55b-4d20-4fc6-ae83-92a9663f6dd1)
+
+![Global Airplane Crash Dashboard](https://github.com/user-attachments/assets/cb9deb14-e540-4a5f-b695-bcd0ba2e1f90)
 
 
 ## Overview  
